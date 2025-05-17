@@ -1,0 +1,77 @@
+img {
+    width: 280px;
+    
+}
+
+.section {
+    display: flex;
+    border-style:groove;
+    border-color:#800fd6;
+    border-radius:18px;
+    border-width:10pt;
+    padding:8pt;
+   
+}
+
+h1 {
+    font-family: 'Stylish', sans-serif;
+    background-color:#c482ff;
+    border-style:outset;
+    border-width:5pt;
+    border-color:#6c00e8;
+    padding:8px;
+    text-align:center;
+    font-size:47px;
+
+}
+    
+h2{
+    font-family: 'Fredoka One', cursive;
+    color:white;
+    }
+
+h3{
+    font-family: 'Fredoka One', cursive;
+    background-color:#e0bdff;
+        
+    }
+p{
+  font-family: 'Comfortaa', cursive;
+    color:white;
+    }        
+.space{
+    padding:10pt;
+    }        
+        body{
+          background-color:black; 
+          border-style:groove;
+          border-color:white;
+          padding:25px;
+          border-width:6px;
+            }
+        
+#dot{
+    width:50pt;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }    
+  
+ .round{
+      border-style:solid;
+    border-radius:10px;
+    border-color:white ;
+    border-width:1px;
+      }
+        a{
+          color:white;  
+           font-family: 'Comfortaa', cursive;  
+            }
+
+#hotel{
+  padding: 16px;
+}
+            
+            
+
+        
